@@ -29,3 +29,9 @@ Thumbs.db
 dist/
 build/
 *.min.js
+
+# Test outputs
+coverage/
+test-results.json
+test-results.xml
+.vitest/
